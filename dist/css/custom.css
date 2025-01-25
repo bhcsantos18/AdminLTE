@@ -1,0 +1,38 @@
+ /* === Geral === */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #0600ff; /* Cor de fundo */
+}
+
+/* === Cabeçalho === */
+.main-header {
+  background-color: ##0600ff !important; /* Cor de fundo do cabeçalho */
+  color: #ffffff !important;           /* Cor do texto */
+}
+
+/* === Menu Lateral === */
+.sidebar-dark-primary {
+  background-color: #0600ff !important; /* Fundo do menu lateral */
+}
+
+.nav-sidebar .nav-link {
+  color: #dcdcdc !important; /* Cor dos links do menu */
+}
+
+.nav-sidebar .nav-link.active {
+  background-color: #007bff !important; /* Fundo do item ativo */
+  color: #ffffff !important;            /* Cor do texto ativo */
+}
+
+/* === Botões === */
+.btn-primary {
+  background-color: #ff5733 !important; /* Fundo do botão primário */
+  border-color: #ff5733 !important;     /* Borda do botão primário */
+  color: #ffffff !important;           /* Cor do texto */
+}
+
+/* === Rodapé === */
+.main-footer {
+  background-color: #333333 !important; /* Fundo do rodapé */
+  color: #ffffff !important;            /* Cor do texto do rodapé */
+}
